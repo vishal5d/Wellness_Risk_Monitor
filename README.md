@@ -90,7 +90,7 @@ cd Wellness_Risk_Monitor
 
 pip install -r requirements.txt
 
-### 3. Run the Project
+### 🚀 3. Run the Project
 
 python main.py
 
